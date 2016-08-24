@@ -1,0 +1,18 @@
+<ion-view view-title="Listado">
+    <ion-content ng-controller="ListCtrl">
+        <ion-list>
+            <ion-item class="item-remove-animate item-icon-right" href="/#/edit/{{nota.id}}" ng-repeat="nota in notas">
+                <i class="icon ion-ios-arrow-right"></i>
+                <h2>{{nota.titulo}}</h2>
+                <p>{{nota.desc}}</p>
+
+                <ion-option-button class="button-assertive icon-left ion-trash-b" ng-click="remove(nota.id)">Eliminar</ion-option-button>
+            </ion-item>
+
+        </ion-list>
+
+    </ion-content>
+    <div class="bar bar-footer bar-stable">
+        <a href="/#/create" class="button button-positive icon-left ion-compose">Aregar</a>
+    </div>
+</ion-view>

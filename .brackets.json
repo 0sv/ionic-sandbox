@@ -1,0 +1,15 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-animate.min.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-resource.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-sanitize.min.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular.min.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-animate.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-sanitize.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular/angular-resource.min.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "/home/usuario/workspace/ionic/todoList/www/js/app.js",
+        "/home/usuario/workspace/ionic/todoList/www/lib/ionic/js/angular-ui/angular-ui-router.js"
+    ]
+}
